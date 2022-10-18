@@ -8,7 +8,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licenÁa">LicenÁa</a>
+  <a href="#memo-licen√ßa">Licen√ßa</a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-## ?? Tecnologias
+## üöÄ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -27,10 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
-## ?? Projeto
+## üíª Projeto
 
-O **Rocketpay** È um componente que simula o formul·rio de preenchimento de cart„o de crÈdito, onde È possÌvel adicionar m·scara aos inputs e atualizar elementos HTML via DOM. VocÍ pode visualizar o layout do projeto atravÈs [desse link](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate).
+O **Rocketpay** √© um componente que simula o formul√°rio de preenchimento de cart√£o de cr√©dito, onde √© poss√≠vel adicionar m√°scara aos inputs e atualizar elementos HTML via DOM. Voc√™ pode visualizar o layout do projeto atrav√©s [desse link](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate).
 
-## :memo: LicenÁa
+## üìù Licen√ßa
 
-Esse projeto est· sob a licenÁa MIT.
+Esse projeto est√° sob a licen√ßa MIT.
