@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Explorer Lab </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -8,7 +8,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licenÃ§a">LicenÃ§a</a>
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -17,11 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
-
-## ðŸš€ Tecnologias
+## ?? Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,18 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
-## ðŸ’» Projeto
+## ?? Projeto
 
-O Rocketpay Ã© um componente que simula o formulÃ¡rio de preenchimento de cartÃ£o de crÃ©dito, onde Ã© possÃ­vel adicionar mÃ¡scara aos inputs e atualizar elementos HTML via DOM.
+O **Rocketpay** é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate).
 
-## ðŸ”– Layout
+## :memo: Licença
 
-VocÃª pode visualizar o layout do projeto atravÃ©s [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). Ã‰ necessÃ¡rio ter conta no [Figma](https://figma.com) para acessÃ¡-lo.
-
-## :memo: LicenÃ§a
-
-Esse projeto estÃ¡ sob a licenÃ§a MIT.
-
----
-
-Feito com â™¥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Esse projeto está sob a licença MIT.
